@@ -3,4 +3,4 @@ This repository is made for hands-on practice and assingment submissions related
 This repository may later be converted into an extensive cheatsheet for Web Development.
 </br>
 </br>
-###### Module-2 site: <a href="module2-solution/index.html">click_here</a>
+#### Module-2 site: <a href="module2-solution/index.html">click_here</a>
